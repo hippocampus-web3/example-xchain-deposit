@@ -1,0 +1,16 @@
+{
+  "name": "example",
+  "main": "new.js",
+  "dependencies": {
+    "@cosmos-client/core": "^0.46.1",
+    "@xchainjs/xchain-binance": "^5.7.2",
+    "@xchainjs/xchain-client": "^0.14.2",
+    "@xchainjs/xchain-doge": "^0.6.3",
+    "@xchainjs/xchain-litecoin": "^0.12.3",
+    "@xchainjs/xchain-thorchain": "^0.28.7",
+    "axios": "^1.5.1",
+    "bech32-buffer": "^0.2.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
